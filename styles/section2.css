@@ -1,0 +1,35 @@
+.lista__metricas{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+}
+
+.segunda__secao{
+    margin-top: 5rem;
+    margin-left: 9rem;
+    margin-right: 9rem;  
+}
+
+.item__metrica{
+   text-align: start;
+}
+
+.num__metrica{
+    font-size: 3.75rem;
+    font-weight: 600;
+    color: var(--vermelho);
+    margin-bottom: 1rem;
+}
+
+.titulo__metrica{
+    color: var(--cor-subtitulo);
+    font-size: 1.125rem;
+    margin-bottom: 1rem;
+}
+
+.descricao__metrica{
+    color: var(--cor-nav);
+    font-size: 1rem;
+    margin-top: 0.5rem;
+    font-weight: 400;
+}

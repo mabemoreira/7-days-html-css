@@ -1,3 +1,4 @@
+@import url(section2.css);
 @import url(section1.css);
 @import url(header.css);
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
@@ -9,7 +10,7 @@
     --vermelho: #8E2424;
     --cor-nav: #667085;
     --cor-subtitulo: #101828;
-    
+
 }
 
 body{
@@ -17,4 +18,6 @@ body{
     font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 500;
+    width: 100%;
+    height: 100vh;
 }
