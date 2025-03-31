@@ -4,7 +4,9 @@
     justify-content: space-around;
 }
 
-.navegacao__logo{
+
+
+.cabecalho__logo{
     display: flex;
     align-items: center;
     gap: 0.5rem;;
@@ -12,6 +14,7 @@
     padding: 2rem;
     color: var(--cor-titulo);
     margin-left: 3rem;
+    text-decoration: none;
 }
 
 .navegacao__logo img{
