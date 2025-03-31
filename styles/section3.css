@@ -1,0 +1,27 @@
+.terceira__secao{
+    margin-top: 6rem;
+    text-align: center;
+}
+
+.vagas{
+    font-size: 0.875rem;
+    color: var(--vermelho);
+    background-color: rgba(223, 32, 32, 0.05);
+    border-radius: 1rem;
+    padding: 0.5rem;
+}
+
+.titulo__terceira__secao{
+    font-size: 2.25rem;
+    color: var(--cor-subtitulo);
+    margin: 2rem 0;
+    font-weight: 600;
+}
+
+.terceira{
+    margin-bottom: 2rem;
+}
+
+.imagem__terceira__secao{
+    width: 76rem;
+}
