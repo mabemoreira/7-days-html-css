@@ -1,0 +1,25 @@
+.primeira__secao{
+    display: block;
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.sobre{
+    font-weight: 600;
+    color: var(--vermelho);
+    margin: 2rem 0;
+}
+
+.titulo__primeira__secao{
+    font-size: 3rem;
+    color: var(--cor-subtitulo);
+    margin: 2rem 0;
+    font-weight: 600;
+}
+
+.descricao__primeira__secao{
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: var(--cor-nav);
+    margin-top: 1rem;
+}
