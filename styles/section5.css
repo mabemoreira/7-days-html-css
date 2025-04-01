@@ -1,0 +1,52 @@
+.quinta__secao{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    width: 100%; 
+    text-align: center; 
+}
+
+.testemonial{
+    width: 80%;
+    background-color: rgba(195, 25, 25, 0.03);
+
+    margin-bottom: 5rem;
+}
+
+.foto__colaborador{
+    height: 56px;
+    width: 56px;
+}
+
+.testemonial__chamada{
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--vermelho);
+    margin: 3rem 0 2rem 0;
+}
+
+.testemonial__opiniao {
+    font-size: 36px;
+    color: var(--cor-titulo);
+    margin-bottom: 1rem;
+}
+
+.colaborador{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 3rem;
+}
+
+.nome__colaborador{
+    color: var(--cor-titulo);
+}
+
+.descricao__colaborador{
+    color: var(--cor-nav);
+    font-size: 0.875rem;
+    margin-bottom: 1rem;
+}
