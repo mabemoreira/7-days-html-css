@@ -1,3 +1,4 @@
+@import url(footer.css);
 @import url(section5.css);
 @import url(section4.css);
 @import url(section3.css);
@@ -12,8 +13,9 @@
     --cor-titulo: #3A404E;
     --vermelho: #8E2424;
     --cor-nav: #667085;
+    --cor-footer: #F9FAFB;
     --cor-subtitulo: #101828;
-
+    --cor-direitos: #98A2B3;
 }
 
 body{
